@@ -1,2 +1,2 @@
 # Introduction-to-Machine-Learnning-and-Data-Mining
-Just a test
+Project based on the Dry Beans Dataset
